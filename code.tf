@@ -10,6 +10,6 @@ resource "azurerm_resource_group" "rg" {
 }
 
 resource "azurerm_resource_group" "rg2" {
-  name     = "RG1"
+  name     = "sahil"
   location = "northeurope"
 }
